@@ -1,6 +1,0 @@
-${CORE_ROOT}/src/Baud_Division.v
-${CORE_ROOT}/src/Receiver.v
-${CORE_ROOT}/src/Transmitter.v
-${CORE_ROOT}/src/UART_8bit.v
-
-${CORE_ROOT}/testbech/UART_8bit_tb.v
